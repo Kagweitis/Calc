@@ -20,7 +20,13 @@ code {
 
 .buttonz{
   align-items: center;
-  margin-left: 700px;
+  display: flexbox;
   margin-top: 10px;
   top: 100%;
+}
+
+.container-buttonz{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
