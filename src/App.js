@@ -2,7 +2,7 @@ import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Calculate from './components/Calculate';
-// import { useState } from 'react'
+import './index.css'
 
 function App() {
 
