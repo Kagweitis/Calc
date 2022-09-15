@@ -6,10 +6,12 @@
   font-size: 110%;
 }
 
-.frame{
+.frame{ 
+  padding: 0 5px;
   border: solid 5px greenyellow;
   transition: border-width 0.6s linear;
-  float: ;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 
 .frame:hover { border-width: 10px; }
